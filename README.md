@@ -75,3 +75,9 @@ The design focuses on embedded control implementation, PWM motor drive, and real
 ---
 
 ## Repository Structure
+
+## System Figures
+
+![Block Diagram](images/block_diagram.png)
+
+*Figure 1: System architecture showing keypad input, PWM control loop, and feedback from tachometer.*
